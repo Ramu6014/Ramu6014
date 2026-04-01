@@ -16,6 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -43,7 +44,7 @@
 
 ## 🔗 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/k-kodanda-ramu-4a49b5284/  
-🧠 LeetCode: https://leetcode.com/u/Ramu6014/
+🧠 LeetCode: https://leetcode.com/u/ramu_64/  
 
 ---
 
